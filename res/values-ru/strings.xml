@@ -26,10 +26,12 @@
   <string name="weather_custom_location_title">Местоположение</string>
   <string name="weather_custom_location_missing">Установить свое местоположение</string>
   <string name="weather_retrieve_location_dialog_title">Невозможно получить местоположение!</string>
+  <string name="weather_retrieve_location_dialog_message">Определение местоположения по сети выключено.\n\nВведите местоположение вручную или включите определение местоположения по сети</string>
   <string name="weather_retrieve_location_dialog_enable_button">Включить</string>
   <string name="settings_title">Настройки</string>
   <string name="auto_update_title">Автоматические обновления</string>
   <string name="unit_metric">Метрическая (\u00b0C)</string>
+  <string name="unit_imperial">Формат (\u00b0F)</string>
   <string name="update">Обновить</string>
   <string name="enable_title">Включить</string>
   <string name="update_interval_title">Частота обновления</string>
